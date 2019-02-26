@@ -1,0 +1,7 @@
+a=int(input("Enter value which yu want to convert"))
+binary=bin(a)
+octal=oct(a)
+hexa=hex(a)
+print(binary)
+print(octal)
+print(hexa)
